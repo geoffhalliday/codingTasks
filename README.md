@@ -18,6 +18,7 @@ titanic.csv file
 Run the file in suitable envirnment (e.g. VS Code, with Python)
 
 The first section (Task 20) generates decision trees
+![image](https://github.com/geoffhalliday/codingTasks/assets/163735161/e0a1f91c-19a6-4d6c-a953-886485e92878)
 
 
 The second section creates random forest models
