@@ -15,10 +15,13 @@ Python (Including: pandas; sklearn.model_selection; sklearn.tree; sklearn; matpl
 titanic.csv file
 
 ## Usage
-Run the file in suitable envirnment (e.g. VS Code, with Python)
+Run the file in suitable environment (e.g. VS Code), using Python 3.12.2
 
-The first section (Task 20) generates decision trees
+The first section (Task 20) generates decision trees and finds optimal parameters
 ![image](https://github.com/geoffhalliday/codingTasks/assets/163735161/e0a1f91c-19a6-4d6c-a953-886485e92878)
 
+The second section (Task 21)creates random forest models and practices tuning parameters
+![image](https://github.com/geoffhalliday/codingTasks/assets/163735161/e2112701-13aa-4d85-9da9-eb5a3357a386)
 
-The second section creates random forest models
+## Credits
+Geoff Haliday
