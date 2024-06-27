@@ -9,10 +9,15 @@ Report the accuracy of all models and report which model performed the best, inc
 
 ## Requirements:
 Jupyter notebook
+
 Python (Including: pandas; sklearn.model_selection; sklearn.tree; sklearn; matplotlib.pyplot; sklearn.metrics; sklearn.ensemble)
+
 titanic.csv file
 
 ## Usage
 Run the file in suitable envirnment (e.g. VS Code, with Python)
+
 The first section (Task 20) generates decision trees
+
+
 The second section creates random forest models
