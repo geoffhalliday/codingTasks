@@ -1,5 +1,4 @@
-# codingTasks
-Task 21 - Supervised Learning - Random Forests
+# Task 21 - Supervised Learning - Random Forests
 
 ## Summary of tasks:
 "Create a bagged, random forest, and boosted tree for the Titanic data set in the same way that you created a regular classification tree.
